@@ -19,6 +19,6 @@ npm install
 npm run start
 ```
 
-### For type checking
+#### For type checking
 ```
 npm run type
